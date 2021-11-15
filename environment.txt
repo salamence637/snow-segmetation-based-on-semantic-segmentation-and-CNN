@@ -1,0 +1,16 @@
+The basic environments are shown below:
+Windows10
+python 3.6.13 (anaconda )
+tensorflow-gpu 2.0.0
+keras 2.3.1
+Dependent libraries are shown below:
+import cv2
+import numpy
+import PIL
+import colorsys
+import copy
+import time
+import os
+import matplotlib
+import scipy.signal
+import csv

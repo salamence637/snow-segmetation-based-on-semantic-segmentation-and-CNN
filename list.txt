@@ -1,0 +1,8 @@
+E:\deepLearning\workplace\unet-keras-master\00026.jpg
+E:\deepLearning\workplace\unet-keras-master\00043.jpg
+E:\deepLearning\workplace\unet-keras-master\00049.jpg
+E:\deepLearning\workplace\unet-keras-master\00105.jpg
+E:\deepLearning\workplace\unet-keras-master\00246.jpg
+E:\deepLearning\workplace\unet-keras-master\00259.jpg
+E:\deepLearning\workplace\unet-keras-master\02539.jpg
+E:\deepLearning\workplace\unet-keras-master\02591.jpg
